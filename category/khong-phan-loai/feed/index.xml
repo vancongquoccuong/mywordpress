@@ -10,7 +10,7 @@
 <channel>
 	<title>Chưa phân loại &#8211; mywordpress</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 30 Aug 2022 08:20:02 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,31 +21,31 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>DEMO</title>
-		<link>/demo/</link>
-					<comments>/demo/#respond</comments>
+		<link>https://vancongquoccuong.github.io/mywordpress/demo/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/demo/#respond</comments>
 		
 		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
 		<pubDate>Tue, 30 Aug 2022 07:04:08 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">/?p=23</guid>
+		<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?p=23</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/demo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/demo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>BÓNG ĐÁ CHÂU ÂU</title>
-		<link>/football/</link>
-					<comments>/football/#respond</comments>
+		<link>https://vancongquoccuong.github.io/mywordpress/football/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/football/#respond</comments>
 		
 		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
 		<pubDate>Tue, 30 Aug 2022 06:57:40 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">/?p=20</guid>
+		<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?p=20</guid>
 
 					<description><![CDATA[Top cầu thủ trẻ đắt giá nhất trong bóng đá hiện tại TPO &#8211; Theo nhóm nghiên cứu CIES Football Observatory,&#160;Kylian Mbappe, Vinicius Junior và Erling Haaland&#160;là 3 cầu thủ đắt giá nhất của bóng đá thế giới thời điểm hiện tại. Kylian Mbappe Đứng đầu danh sách là cầu thủ người Pháp Kylian&#160;Mbappe. Ngôi [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -53,7 +53,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1000" height="709" src="/wp-content/uploads/2022/08/3cauthutre.jpg" alt="" class="wp-image-29"/><figcaption>Top 3 cầu thủ trẻ đắt tiền nhất</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1000" height="709" src="https://vancongquoccuong.github.io/mywordpress/wp-content/uploads/2022/08/3cauthutre.jpg" alt="" class="wp-image-29"/><figcaption>Top 3 cầu thủ trẻ đắt tiền nhất</figcaption></figure>
 
 
 
@@ -65,7 +65,7 @@
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="650" height="404" src="/wp-content/uploads/2022/08/mbappe.jpg" alt="" class="wp-image-31 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="650" height="404" src="https://vancongquoccuong.github.io/mywordpress/wp-content/uploads/2022/08/mbappe.jpg" alt="" class="wp-image-31 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Đứng đầu danh sách là cầu thủ người Pháp Kylian&nbsp;<a href="https://tienphong.vn/post-1442012.tpo">Mbappe</a>. Ngôi sao này đã từ chối chuyển đến&nbsp;<a href="https://tienphong.vn/post-1442372.tpo">Real Madrid</a>&nbsp;để ký hợp đồng mới có thời hạn 3 năm với PSG. Anh được định giá khoảng 205,6 triệu euro (175,7 triệu bảng). Ở mùa giải vừa qua, Mbappe đã có 39 bàn và 21 kiến ​​tạo sau 48 trận đấu trong màu áo đội bóng thủ đô nước Pháp.</p>
 </div></div>
 
@@ -75,7 +75,7 @@
 
 
 
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 38%"><figure class="wp-block-media-text__media"><img loading="lazy" width="209" height="241" src="/wp-content/uploads/2022/08/vinicius.jpg" alt="" class="wp-image-32 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 38%"><figure class="wp-block-media-text__media"><img loading="lazy" width="209" height="241" src="https://vancongquoccuong.github.io/mywordpress/wp-content/uploads/2022/08/vinicius.jpg" alt="" class="wp-image-32 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Đứng ngay sau Mbappe là tiền đạo Vinicius của Real Madrid, được định giá 185,5 triệu euro (158,3 triệu bảng). Cầu thủ người Brazil đã có mùa giải rất thành công với cú đúp La Liga và Champions League. Sự tỏa sáng của Vinicius giúp người hâm mộ Real Madrid quên đi tiếc nuối về thương vụ Mbappe.</p>
 </div></div>
 
@@ -85,7 +85,7 @@
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="650" height="403" src="/wp-content/uploads/2022/08/haaland.jpg" alt="" class="wp-image-30 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="650" height="403" src="https://vancongquoccuong.github.io/mywordpress/wp-content/uploads/2022/08/haaland.jpg" alt="" class="wp-image-30 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Người cuối cùng trong tốp 3 là&nbsp;<a href="https://tienphong.vn/post-1441000.tpo">Haaland</a>, chân sút ghi 86 bàn sau 89 trận trong thời gian ở Dortmund. Haaland được định giá 152,9 triệu euro (130,4 triệu bảng) nhưng Man City chỉ tốn 60 triệu euro (51 triệu bảng) để chiêu mộ cầu thủ này nhờ điều khoản giải phóng hợp đồng.</p>
 </div></div>
 
@@ -95,7 +95,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="800" height="533" src="/wp-content/uploads/2022/08/real1.jpg" alt="" class="wp-image-34"/><figcaption>Real Madrid &#8211; Đội bóng giàu thành tích bậc nhất châu âu</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="800" height="533" src="https://vancongquoccuong.github.io/mywordpress/wp-content/uploads/2022/08/real1.jpg" alt="" class="wp-image-34"/><figcaption>Real Madrid &#8211; Đội bóng giàu thành tích bậc nhất châu âu</figcaption></figure>
 
 
 
@@ -118,27 +118,27 @@
 <figure class="wp-block-image"><img alt=""/></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/football/feed/</wfw:commentRss>
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/football/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>/chao-moi-nguoi/</link>
-					<comments>/chao-moi-nguoi/#comments</comments>
+		<link>https://vancongquoccuong.github.io/mywordpress/chao-moi-nguoi/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
 		<pubDate>Tue, 16 Aug 2022 09:03:21 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
