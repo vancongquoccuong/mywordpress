@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Iron &#8211; mywordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/iron/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 01 Nov 2022 07:19:56 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Awesome Iron Computer</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/awesome-iron-computer/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/awesome-iron-computer/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 07:19:54 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=231</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Natus nemo excepturi ut inventore error dolores quis voluptatem. Autem dignissimos occaecati cumque qui est vero est voluptatem. Eius voluptatum dolorem maiores vel commodi ex rerum deleniti.
+
+</div>
+<form class="cart" action="https://demo2.pavothemes.com/freshio/product/awesome-iron-computer/" enctype="multipart/form-data" method="post">
+<div class="quantity buttons_added"></div>
+</form>]]></description>
+										<content:encoded><![CDATA[<p>Tenetur nam similique reiciendis excepturi tempore et voluptatem. Et accusantium qui vitae dolor distinctio cupiditate. Est consequatur pariatur dolorum non vel.</p>
+<p>Inventore et dolor ipsam maiores quia. Tenetur voluptate est sed modi aliquid ad rerum. Eaque minus qui iure cumque commodi quia quas facilis. Qui iusto eos sed est ratione ea dignissimos.</p>
+<p>Rem quia sunt sed iusto in. Consequatur sit quis voluptatum sit sit. Atque et est non non et. Autem et assumenda error est. Aliquid reprehenderit quia molestias dolor impedit.</p>
+<p>Suscipit ipsum officia nulla. Dolorem quia et fugit sequi dolorem ab omnis voluptatem. Eos dignissimos dolorum impedit dolorum. Necessitatibus magnam aspernatur ut libero earum ullam.</p>
+<p>Quae enim similique nihil officia quia officiis illo. Placeat similique rem at tenetur. Numquam tempora et consequatur. Eaque magni voluptatem reprehenderit autem.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/awesome-iron-computer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ergonomic Iron Clock</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/ergonomic-iron-clock/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/ergonomic-iron-clock/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2022 08:47:31 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=192</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/ergonomic-iron-clock/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

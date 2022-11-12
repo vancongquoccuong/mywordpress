@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Coat &#8211; mywordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/coat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 30 Oct 2022 08:25:01 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Enormous Linen Coat</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/enormous-linen-coat/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/enormous-linen-coat/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Sun, 30 Oct 2022 08:24:56 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=206</guid>
+
+					<description><![CDATA[Sint at quod quia cum quis. Deserunt rem sed laboriosam sequi. Explicabo qui itaque qui molestiae ut eaque commodi.]]></description>
+										<content:encoded><![CDATA[<p>Dicta rerum enim ipsum voluptatibus. Ea aut quasi omnis repellendus. Magnam provident voluptas aut quo. Sunt est sunt corrupti nostrum enim autem.</p>
+<p>Aut incidunt totam voluptas et aut. Et dicta doloribus enim dolorum quis quas ea. Nihil quia aspernatur blanditiis et fuga magni.</p>
+<p>Reiciendis aliquid ad facere est temporibus. Aperiam consequuntur sit natus repudiandae omnis. Sapiente accusamus ab qui quia eos.</p>
+<p>Iste inventore distinctio blanditiis consequatur tempore sed accusamus et. Voluptas et aut enim maxime enim sit. Rem autem laudantium qui iure et recusandae. Eos ex vero exercitationem magnam deserunt architecto.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/enormous-linen-coat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

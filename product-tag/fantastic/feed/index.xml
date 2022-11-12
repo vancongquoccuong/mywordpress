@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fantastic &#8211; mywordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/fantastic/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 08 Nov 2022 07:36:21 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Fantastic Plastic Chair</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/fantastic-plastic-chair/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/fantastic-plastic-chair/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 07:56:53 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=250</guid>
+
+					<description><![CDATA[hahaha]]></description>
+										<content:encoded><![CDATA[<p>hihihi</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/fantastic-plastic-chair/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fantastic Granite Pants</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/fantastic-granite-pants/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/fantastic-granite-pants/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 07:44:18 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=248</guid>
+
+					<description><![CDATA[Dicta architecto occaecati numquam optio et quam ut. Neque sapiente perferendis qui delectus debitis. Dolorem quia ipsa harum voluptas officia ullam.]]></description>
+										<content:encoded><![CDATA[<p>Consectetur reprehenderit quia molestiae cumque id iste et. Sint ea aut pariatur qui. Amet repellendus magnam minima ratione ea.</p>
+<p>Molestiae minima nihil nostrum minus iure dolorem. Veniam dolor autem ipsum. Voluptatem libero et alias vel optio.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/fantastic-granite-pants/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

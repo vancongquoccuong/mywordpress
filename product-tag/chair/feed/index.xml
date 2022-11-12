@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chair &#8211; mywordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/chair/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 08 Nov 2022 07:36:21 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Fantastic Plastic Chair</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/fantastic-plastic-chair/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/fantastic-plastic-chair/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 07:56:53 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=250</guid>
+
+					<description><![CDATA[hahaha]]></description>
+										<content:encoded><![CDATA[<p>hihihi</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/fantastic-plastic-chair/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aerodynamic Marble Chair</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/aerodynamic-marble-chair/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/aerodynamic-marble-chair/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2022 08:31:42 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=190</guid>
+
+					<description><![CDATA[Et nemo eum laborum in voluptates ex. Temporibus cumque ea qui assumenda ut vero cumque praesentium. Voluptas expedita fuga accusamus provident.]]></description>
+										<content:encoded><![CDATA[<p>At quos velit dignissimos labore. Reiciendis non sunt qui.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/aerodynamic-marble-chair/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

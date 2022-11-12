@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Plate &#8211; mywordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/plate/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 29 Oct 2022 09:25:18 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Practical Copper Plate</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/practical-copper-plate/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/practical-copper-plate/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2022 09:25:14 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=196</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/practical-copper-plate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

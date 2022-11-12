@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Silk &#8211; mywordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/silk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 18 Oct 2022 08:00:52 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Enormous Silk Computer</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/enormous-silk-computer/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/enormous-silk-computer/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 07:52:44 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=171</guid>
+
+					<description><![CDATA[Sit illum mollitia consequatur omnis ea necessitatibus. Modi aut aut quaerat dolores. Et maxime quis hic non.]]></description>
+										<content:encoded><![CDATA[<p>Excepturi cupiditate et voluptatem voluptatem id quo omnis. Vero occaecati sunt eveniet tempora. Voluptatem eligendi excepturi non et iusto. Alias ut error facilis sunt autem mollitia odit omnis.</p>
+<p>Ea quisquam animi non reprehenderit eum. Sit accusamus voluptates aliquid eligendi officiis recusandae temporibus similique. Omnis fugiat velit qui suscipit. Deleniti eius nulla repudiandae et porro quia suscipit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/enormous-silk-computer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

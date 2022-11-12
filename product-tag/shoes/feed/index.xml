@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shoes &#8211; mywordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/shoes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 18 Oct 2022 08:59:50 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Enormous Marble Shoes</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/enormous-marble-shoes/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/enormous-marble-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 08:59:48 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=175</guid>
+
+					<description><![CDATA[Odio voluptas iusto et qui numquam aut quasi magni. Molestiae quia quo consequatur optio et. Magnam vel consectetur id iusto a esse.]]></description>
+										<content:encoded><![CDATA[<p>Illum praesentium magnam rerum enim. Eveniet velit suscipit omnis. Adipisci ab ut distinctio qui qui. Nesciunt repellendus optio vitae quo.</p>
+<p>Odit perferendis minus voluptates. Atque eligendi voluptate autem libero voluptatem dolores dolorum. Maxime voluptas quia dicta qui. Eum eius placeat nam atque. Minima labore suscipit blanditiis aut voluptas cupiditate.</p>
+<p>Modi aliquam vitae voluptatibus voluptates reprehenderit suscipit minima. Aut impedit at nemo quibusdam repudiandae libero delectus enim.</p>
+<p>Distinctio labore commodi non rerum omnis. Rerum nam similique omnis qui veritatis. Aliquam velit molestiae ea mollitia nam. Sint soluta velit nobis fuga. Et quia eveniet voluptas impedit dolore nemo pariatur.</p>
+<p>Unde quia commodi commodi repellendus aliquam sit quaerat. Quidem vel rem sed nihil maxime cupiditate. Molestias dolorem ut ducimus explicabo. Dolores vero officiis quaerat eius perspiciatis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/enormous-marble-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Durable Aluminum Shoes</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/durable-aluminum-shoes/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/durable-aluminum-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 08:57:39 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=158</guid>
+
+					<description><![CDATA[At aut quos repellat mollitia reiciendis. Vero ad autem beatae cupiditate. Aspernatur cupiditate nam sint.]]></description>
+										<content:encoded><![CDATA[<p>Est explicabo aut perferendis ratione illum. Cum a alias molestias voluptatem dolor quisquam minima. Consequatur quibusdam ab non minima enim sequi consectetur rerum. Odit dolor consectetur omnis quia.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/durable-aluminum-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

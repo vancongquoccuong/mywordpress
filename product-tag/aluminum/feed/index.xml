@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Aluminum &#8211; mywordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/aluminum/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 30 Oct 2022 08:36:55 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Enormous Aluminum Bottle</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/enormous-aluminum-bottle/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/enormous-aluminum-bottle/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Sun, 30 Oct 2022 08:36:47 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=208</guid>
+
+					<description><![CDATA[Aut omnis alias vitae esse aliquam omnis. Eaque molestiae ut at perspiciatis tenetur. Ut numquam et sed illo dolorum beatae aut adipisci.]]></description>
+										<content:encoded><![CDATA[<p>Non nostrum quos eligendi sed et eos. Et deleniti error voluptas quod. Tempore est rerum aliquid ut a. Magni unde quasi in ullam maiores.</p>
+<p>Explicabo quam veniam deserunt aut et voluptates eum. Molestiae deleniti ea ut eius et eum nemo. Sit ad incidunt ab praesentium. Dolore maxime natus quis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/enormous-aluminum-bottle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Durable Aluminum Shoes</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/durable-aluminum-shoes/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/durable-aluminum-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 08:57:39 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=158</guid>
+
+					<description><![CDATA[At aut quos repellat mollitia reiciendis. Vero ad autem beatae cupiditate. Aspernatur cupiditate nam sint.]]></description>
+										<content:encoded><![CDATA[<p>Est explicabo aut perferendis ratione illum. Cum a alias molestias voluptatem dolor quisquam minima. Consequatur quibusdam ab non minima enim sequi consectetur rerum. Odit dolor consectetur omnis quia.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/durable-aluminum-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

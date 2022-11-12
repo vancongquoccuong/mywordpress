@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Leather &#8211; mywordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/leather/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 30 Oct 2022 09:10:45 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Awesome Leather Shirt</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/awesome-leather-shirt/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/awesome-leather-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Sun, 30 Oct 2022 09:10:43 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=216</guid>
+
+					<description><![CDATA[Cum voluptatum facere aperiam ut. Quae rerum assumenda vel impedit eum quasi. Repudiandae fuga non nihil ut adipisci rem maiores. Quis maiores eveniet non inventore labore hic sed.]]></description>
+										<content:encoded><![CDATA[<p>Assumenda repellendus sed beatae voluptatum ut iste et. Ipsam eum corporis quis ad ducimus. Consequatur necessitatibus iste rem impedit.</p>
+<p>Enim fugit nulla quaerat odit. Quia quis sed ipsum ab consectetur quia. Deleniti sed dolore aspernatur error quia.</p>
+<p>Cum cum rerum alias. Modi et deserunt dicta explicabo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/awesome-leather-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

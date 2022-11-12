@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mediocre &#8211; mywordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/mediocre/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 30 Oct 2022 09:00:47 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Mediocre Plastic Computer</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/mediocre-plastic-computer/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/mediocre-plastic-computer/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Sun, 30 Oct 2022 09:00:42 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=214</guid>
+
+					<description><![CDATA[Eos non architecto incidunt iure aliquam ullam. Aut est aut voluptatibus aut omnis. Nemo doloribus rem nesciunt consequatur dolorem est.]]></description>
+										<content:encoded><![CDATA[<p>Odit et sint alias exercitationem quaerat esse. Voluptate aut ducimus porro occaecati neque. Quod mollitia aut adipisci sit quisquam harum.</p>
+<p>Et voluptatem debitis ipsam aut nostrum ea quasi. Nihil ut impedit eius nostrum accusamus aut quia.</p>
+<p>Minus pariatur animi voluptatem exercitationem a impedit iste. Sed porro tempora doloremque cumque et et in. Et voluptas dolorem ipsum nihil quam voluptatem est.</p>
+<p>Delectus facere et optio quia neque tenetur quis. At accusamus et ab saepe. Quisquam rerum omnis unde sit consequatur.</p>
+<p>Natus est sed excepturi excepturi recusandae sit. Commodi ullam magnam sit placeat quis mollitia eveniet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/mediocre-plastic-computer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

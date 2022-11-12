@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Marble &#8211; mywordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/marble/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vancongquoccuong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 29 Oct 2022 08:31:45 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Aerodynamic Marble Chair</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/aerodynamic-marble-chair/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/aerodynamic-marble-chair/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2022 08:31:42 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=190</guid>
+
+					<description><![CDATA[Et nemo eum laborum in voluptates ex. Temporibus cumque ea qui assumenda ut vero cumque praesentium. Voluptas expedita fuga accusamus provident.]]></description>
+										<content:encoded><![CDATA[<p>At quos velit dignissimos labore. Reiciendis non sunt qui.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/aerodynamic-marble-chair/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Enormous Marble Shoes</title>
+		<link>https://vancongquoccuong.github.io/mywordpress/product/enormous-marble-shoes/</link>
+					<comments>https://vancongquoccuong.github.io/mywordpress/product/enormous-marble-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[vancongquoccuong]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 08:59:48 +0000</pubDate>
+				<guid isPermaLink="false">https://vancongquoccuong.github.io/mywordpress/?post_type=product&#038;p=175</guid>
+
+					<description><![CDATA[Odio voluptas iusto et qui numquam aut quasi magni. Molestiae quia quo consequatur optio et. Magnam vel consectetur id iusto a esse.]]></description>
+										<content:encoded><![CDATA[<p>Illum praesentium magnam rerum enim. Eveniet velit suscipit omnis. Adipisci ab ut distinctio qui qui. Nesciunt repellendus optio vitae quo.</p>
+<p>Odit perferendis minus voluptates. Atque eligendi voluptate autem libero voluptatem dolores dolorum. Maxime voluptas quia dicta qui. Eum eius placeat nam atque. Minima labore suscipit blanditiis aut voluptas cupiditate.</p>
+<p>Modi aliquam vitae voluptatibus voluptates reprehenderit suscipit minima. Aut impedit at nemo quibusdam repudiandae libero delectus enim.</p>
+<p>Distinctio labore commodi non rerum omnis. Rerum nam similique omnis qui veritatis. Aliquam velit molestiae ea mollitia nam. Sint soluta velit nobis fuga. Et quia eveniet voluptas impedit dolore nemo pariatur.</p>
+<p>Unde quia commodi commodi repellendus aliquam sit quaerat. Quidem vel rem sed nihil maxime cupiditate. Molestias dolorem ut ducimus explicabo. Dolores vero officiis quaerat eius perspiciatis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vancongquoccuong.github.io/mywordpress/product/enormous-marble-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
